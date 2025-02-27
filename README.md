@@ -1,2 +1,5 @@
 # Mini-project-sales-TechTrio
- Renad Naser, Lama Alwuthaynani ,Abrar Alanazi
+ TechTrio
+ Renad Naser
+ Lama Alwuthaynani 
+ Abrar Alanazi
